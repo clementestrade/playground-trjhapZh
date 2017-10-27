@@ -1,4 +1,5 @@
-title: Simple Java Template
+title: blblb
 plan:
-- title: Java Snippet
-  statement: statement.md
+- id: Debut
+- title: test
+  statement: debut.md
